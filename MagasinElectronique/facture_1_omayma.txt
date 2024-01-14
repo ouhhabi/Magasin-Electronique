@@ -1,0 +1,9 @@
+BILAN DE VENTE
+---------------
+Nom du client: omayma
+Numéro de série de la facture: 1
+Date de création: Fri Jan 12 21:00:31 CET 2024
+
+Détails de la facture:
+ Montant total de la facture: 2330.0
+
